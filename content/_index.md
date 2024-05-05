@@ -62,19 +62,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Visiting Student Researcher
+          company: Mohamed bin Zayed University of Artificial Intelligence
+          company_url: 'https://mbzuai.ac.ae/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Masdar City - Abu Dhabi - United Arab Emirates
+          date_start: '2024-05-01'
+          date_end: 'Present'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * exploring the calibration properties of large language models, including large vision-language models
+              * leading a project on this topic
+              
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
