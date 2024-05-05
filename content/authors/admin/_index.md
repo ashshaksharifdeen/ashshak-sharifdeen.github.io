@@ -42,7 +42,7 @@ education:
       description: 'Jul 2021 - Present' 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
+'''skills:
   - name: Technical
     items:
       - name: Python
@@ -78,7 +78,7 @@ skills:
         description: ''
         percent: 80
         icon: camera-retro
-        icon_pack: fas
+        icon_pack: fas'''
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
