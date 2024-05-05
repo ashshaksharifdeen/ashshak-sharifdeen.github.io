@@ -34,7 +34,7 @@ bio: My research interests include Computer Vision, Robort Perception with the s
   #- Information Retrieval
 
 # Education to show in About widget
-"""education:
+education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
@@ -44,7 +44,7 @@ bio: My research interests include Computer Vision, Robort Perception with the s
       year: 2009
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2008"""
+      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
