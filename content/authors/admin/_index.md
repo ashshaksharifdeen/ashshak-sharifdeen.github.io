@@ -34,7 +34,7 @@ interests:
   - 3D Vision
 
 # Education to show in About widget
-education:
+skills:
   courses:
     - course: Bachelor of Engineering Technology Honours in Instrumentation and Automation
       institution: University of Colombo
