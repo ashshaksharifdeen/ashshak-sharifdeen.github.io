@@ -28,10 +28,10 @@ role: Bachelor's student at [University of Colombo](https://cmb.ac.lk/)
 bio: My research interests include Computer Vision, Robort Perception with the sub-domain includes Model Calibration, Representation Learning and 3D Vision.
 
 # Interests to show in About widget
-#interests:
- # - Artificial Intelligence
-  #- Computational Linguistics
-  #- Information Retrieval
+interests:
+  - Representation Learning
+  - Model Calibration 
+  - 3D Vision
 
 # Education to show in About widget
 education:
