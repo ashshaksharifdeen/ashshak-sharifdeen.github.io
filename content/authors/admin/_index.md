@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-I am currently in my 3rd Year Undergraduate Program at the University of Colombo, Sri Lanka, and doing my Research Internship at Mohamed bin Zayed University of Artificial Intelligence under the supervision of Dr. Haris Khan. I am working on Model Calibration. I am interested in Computer Vision and Robot Perception, with sub-domains including Model Calibration, Representation Learning, and 3D Vision.
+I am currently in my 3rd Year Undergraduate Program at the [University of Colombo](https://cmb.ac.lk/), Sri Lanka, and doing my Research Internship at [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) under the supervision of [Dr. Haris Khan](https://mbzuai.ac.ae/study/faculty/muhammad-haris-khan/). I am working on Model Calibration. I am interested in Computer Vision and Robot Perception, with sub-domains including Model Calibration, Representation Learning, and 3D Vision.
 {style="text-align: justify;"}
