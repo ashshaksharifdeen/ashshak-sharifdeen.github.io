@@ -34,12 +34,12 @@ interests:
   - 3D Vision
 
 # Education to show in About widget
-skills:
+education:
   courses:
-    - course: Bachelor of Engineering Technology Honours in Instrumentation and Automation
+    - course: BTech in Instrumentation and Automation
       institution: University of Colombo
-      #year: 2021 - Present
-      description: 'Jul 2021 - Present' 
+      year: 2021 - Present
+      #description: 'Jul 2021 - Present' 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #skills:
