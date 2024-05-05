@@ -68,7 +68,7 @@ sections:
           company_logo: org-gc
           location: Masdar City - Abu Dhabi - United Arab Emirates
           date_start: '2024-05-01'
-          date_end: 'Present'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
