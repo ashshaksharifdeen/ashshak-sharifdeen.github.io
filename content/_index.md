@@ -243,7 +243,7 @@ sections:
       address:
         street: 183,B Hanifa Road 
         city: Kalmunai - 06
-        region: 
+        region: Ampara
        # postcode: '94305'
         country: Sri Lanka
         country_code: US
