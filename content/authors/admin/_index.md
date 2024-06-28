@@ -33,12 +33,17 @@ interests:
   - Model Calibration 
   - 3D Vision
 
+interests:
+  - Representation Learning
+  - Model Calibration 
+  - 3D Vision
+
 # Education to show in About widget
-education:
-  courses:
-    - course: BTech in Instrumentation and Automation
-      institution: University of Colombo
-      year: 2021 - Present
+#education:
+#  courses:
+#    - course: BTech in Instrumentation and Automation
+#      institution: University of Colombo
+#      year: 2021 - Present
       #description: 'Jul 2021 - Present' 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
