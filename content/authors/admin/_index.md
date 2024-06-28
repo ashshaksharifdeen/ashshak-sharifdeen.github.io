@@ -33,10 +33,7 @@ interests:
   - Model Calibration 
   - 3D Vision
 
-Skills:
-  - Representation Learning
-  - Model Calibration 
-  - 3D Vision
+
 
 # Education to show in About widget
 #education:
@@ -47,20 +44,20 @@ Skills:
       #description: 'Jul 2021 - Present' 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#skills:
-#  - name: Technical
-#    items:
-#      - name: Python
+skills:
+  - name: Technical
+    items:
+      - name: Python
  #       description: ''
   #      percent: 80
   #      icon: python
   #      icon_pack: fab
-  #    - name: Data Science
+      - name: Data Science
   #      description: ''
   #      percent: 100
   #      icon: chart-line
   #      icon_pack: fas
-  #    - name: SQL
+      - name: SQL
   #      description: ''
   #      percent: 40
   #      icon: database
