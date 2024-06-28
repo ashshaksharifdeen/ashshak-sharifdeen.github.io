@@ -33,7 +33,7 @@ interests:
   - Model Calibration 
   - 3D Vision
 
-interests:
+Skills:
   - Representation Learning
   - Model Calibration 
   - 3D Vision
