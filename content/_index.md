@@ -86,7 +86,7 @@ sections:
     design:
       columns: '2'
 
-- block: experience
+  - block: experience
     content:
       title: Education
       # Date format for experience
