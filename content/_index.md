@@ -98,7 +98,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: University of colombo
+        - title: University of Colombo
           company: Bachelor of Engineering Technology Honours in Instrumentation and Automation
           company_url: 'https://mbzuai.ac.ae/'
           company_logo: org-gc
