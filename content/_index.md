@@ -100,7 +100,7 @@ sections:
       items:
         - title: University of Colombo
           company: Bachelor of Engineering Technology Honours in Instrumentation and Automation
-          company_url: 'https://mbzuai.ac.ae/'
+          #company_url: 'https://mbzuai.ac.ae/'
           company_logo: org-gc
           #location: Masdar City - Abu Dhabi - United Arab Emirates
           date_start: '2021-08-01'
