@@ -103,7 +103,7 @@ sections:
           company_url: 'https://mbzuai.ac.ae/'
           company_logo: org-gc
           #location: Masdar City - Abu Dhabi - United Arab Emirates
-          date_start: '2021-08'
+          date_start: '2021-08-01'
           date_end: ''
          # description: |2-
          #    Responsibilities include:
