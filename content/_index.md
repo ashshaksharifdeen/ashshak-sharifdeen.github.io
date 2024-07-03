@@ -106,8 +106,7 @@ sections:
           date_start: '2021-08'
           date_end: ''
          # description: |2-
-          #    Responsibilities include:
-
+         #    Responsibilities include:
          #     * exploring the calibration properties of large language models, including large vision-language models
          #     * leading a project on this topic
               
