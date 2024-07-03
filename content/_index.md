@@ -98,27 +98,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Visiting Student Researcher
-          company: Mohamed bin Zayed University of Artificial Intelligence
+        - title: University of colombo
+          company: Bachelor of Engineering Technology Honours in Instrumentation and Automation
           company_url: 'https://mbzuai.ac.ae/'
           company_logo: org-gc
-          location: Masdar City - Abu Dhabi - United Arab Emirates
-          date_start: '2024-05-01'
+          #location: Masdar City - Abu Dhabi - United Arab Emirates
+          date_start: '2021-08'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          #description: |2-
+          #    Responsibilities include:
 
               * exploring the calibration properties of large language models, including large vision-language models
               * leading a project on this topic
               
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        #- title: Professor of Semiconductor Physics
+        #  company: University X
+        #  company_url: ''
+        #  company_logo: org-x
+        #  location: California
+        #  date_start: '2016-01-01'
+        #  date_end: '2020-12-31'
+        #  description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'  
   #- block: accomplishments
