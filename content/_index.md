@@ -75,14 +75,14 @@ sections:
               * exploring the calibration properties of large language models, including large vision-language models
               * leading a project on this topic
               
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Research Intern
+          company: Spaceonova
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Hyderabad - Telangana - India
+          date_start: '2022-09-01'
+          date_end: '2022-12-31'
+          description: Design a robotic system to explore the lunar skylights/lava tubes near Mare Nectaris (Sea of Nectar).
     design:
       columns: '2'
 
