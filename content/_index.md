@@ -78,7 +78,7 @@ sections:
         - title: Research Intern
           company: Spaceonova
           company_url: 'https://www.linkedin.com/company/spaceonova/'
-          company_logo: org-x
+          company_logo: spaceonova_logo
           location: Hyderabad - Telangana - India
           date_start: '2022-09-01'
           date_end: '2022-12-31'
