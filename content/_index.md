@@ -65,7 +65,7 @@ sections:
         - title: Visiting Student Researcher
           company: Mohamed bin Zayed University of Artificial Intelligence
           company_url: 'https://mbzuai.ac.ae/'
-          company_logo: org-gc
+          company_logo: MBZUAI_logo
           location: Masdar City - Abu Dhabi - United Arab Emirates
           date_start: '2024-05-01'
           date_end: ''
