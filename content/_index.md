@@ -101,7 +101,7 @@ sections:
         - title: Bachelor of Engineering Technology Honours in Instrumentation and Automation
           company: University of Colombo 
           company_url: 'https://cmb.ac.lk/'
-          #company_logo: 
+          company_logo: Logo_color 
           #location: Masdar City - Abu Dhabi - United Arab Emirates
           date_start: '2021-08-01'
           date_end: ''
