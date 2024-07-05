@@ -77,7 +77,7 @@ sections:
               
         - title: Research Intern
           company: Spaceonova
-          company_url: ''
+          company_url: 'https://www.linkedin.com/company/spaceonova/'
           company_logo: org-x
           location: Hyderabad - Telangana - India
           date_start: '2022-09-01'
@@ -101,7 +101,7 @@ sections:
         - title: University of Colombo
           company: Bachelor of Engineering Technology Honours in Instrumentation and Automation
           #company_url: 'https://mbzuai.ac.ae/'
-          company_logo: org-gc
+          company_logo: MBZUAI_Logo
           #location: Masdar City - Abu Dhabi - United Arab Emirates
           date_start: '2021-08-01'
           date_end: ''
