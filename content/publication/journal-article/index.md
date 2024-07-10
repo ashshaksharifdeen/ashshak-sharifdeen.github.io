@@ -1,8 +1,12 @@
 ---
-title: "An example journal article"
+title: "FEASIBILITY STUDY OF ISRU ON LUNAR SURFACE EMPLOYING AN AUTONOMOUS 3D PRINTING SYSTEM"
 authors:
+- Atharva Patil
+- Akanksha Bhagat
+- Diya Jose
+- Shreya Yadav
 - admin
-- Robert Ford
+- Karthik R Varma
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
