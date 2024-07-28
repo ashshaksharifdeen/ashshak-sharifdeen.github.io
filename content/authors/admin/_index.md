@@ -25,7 +25,7 @@ role: Bachelor's student at [University of Colombo](https://cmb.ac.lk/)
   #  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Computer Vision, Robort Perception with the sub-domain includes Model Calibration, Representation Learning and 3D Vision.
+bio: My research interests include Computer Vision and robot Perception with sub-domains including Model Calibration, Representation Learning, and 3D Vision.
 
 # Interests to show in About widget
 interests:
