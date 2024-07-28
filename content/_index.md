@@ -72,8 +72,8 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * exploring the calibration properties of large language models, including large vision-language models
-              * leading a project on this topic
+              * Exploring the calibration properties of large language models, including large vision-language models
+              * Test Time Prompt Tunning
               
         - title: Research Intern
           company: Spaceonova
