@@ -29,9 +29,10 @@ bio: My research interests include Computer Vision, Robort Perception with the s
 
 # Interests to show in About widget
 interests:
-  - Representation Learning
+  - Vision Language Model
   - Model Calibration 
   - 3D Vision
+  - Test Time Prompt Tunning
 
 
 
