@@ -37,12 +37,12 @@ interests:
 
 
 # Education to show in About widget
-education:
+Skills:
   courses:
     - course: Pytorch
       institution: Tensorflow
-      year: 2021 - Present
-      description: 'Jul 2021 - Present' 
+      #year: 2021 - Present
+      #description: 'Jul 2021 - Present' 
  #Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
