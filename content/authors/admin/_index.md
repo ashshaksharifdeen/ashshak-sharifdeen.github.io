@@ -39,7 +39,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-   - course: Pytorch
+    - course: Pytorch
       institution: Tensorflow
       year: 2021 - Present
       description: 'Jul 2021 - Present' 
