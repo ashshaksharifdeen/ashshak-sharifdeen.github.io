@@ -37,7 +37,7 @@ interests:
 
 
 # Education to show in About widget
-#education:
+education:
 #  courses:
 #    - course: BTech in Instrumentation and Automation
 #      institution: University of Colombo
